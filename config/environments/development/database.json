@@ -1,0 +1,14 @@
+{
+  "defaultConnection": "default",
+  "connections": {
+    "default": {
+      "connector": "mongoose",
+      "settings": {
+        "uri": "mongodb+srv://mehedi:mehedi@mehedi-mw5jy.mongodb.net/strapi?retryWrites=true&w=majority"
+      },
+      "options": {
+        "ssl": true
+      }
+    }
+  }
+}
